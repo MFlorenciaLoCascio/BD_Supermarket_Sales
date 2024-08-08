@@ -21,6 +21,4 @@ Tablero:
 Template realizado en Figma: 
 ![dash_supermarket](https://github.com/user-attachments/assets/5433b0e5-e3ad-4328-a31f-642abd61c419)
 
-Logo realizado en Canva: 
-![ult](https://github.com/user-attachments/assets/56b3a8df-b50d-4938-b3f4-6ef2b736f357)
 
