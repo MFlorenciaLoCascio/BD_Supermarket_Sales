@@ -4,15 +4,15 @@ Ventas históricas de la empresa de supermercados que se registró en 3 sucursal
 
 Data Set [Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales) descargado de Kaggle
 
-🎯 Objetivos:
+# 🎯 Objetivos:
 
 💻 Creación de un tablero completo en Power BI que permita analizar el rendimiento del Supermercado, con un enfoque que permita ayudar al área de marketing a poder realizar promociones y XXXXX. Se presentan de manera clara los ingresos, costos, rentabilidad y otros indicadores claves. XXXX
 
-📊 Insights encotrados:
+# 📊 Insights encotrados:
 
 Puede ver los insights y transformaciones realizas en P. BI en el informe: [Insights y Transformaciones en Power Bi - “SUPERMARKET SALES”](https://github.com/MFlorenciaLoCascio/BD_Supermarket_Sales/blob/main/Insights%20y%20Transformaciones%20en%20Power%20Bi%20%E2%80%9CSUPERMARKET%20SALES%E2%80%9D.pdf)
 
-## 📊 Análisis en Power Bi 
+# 📊 Análisis en Power Bi 
 
 Puede visualizar el dashboard realizado en Power Bi: [Análisis de Negocio - Supermarket Sales])https://app.powerbi.com/view?r=eyJrIjoiYzJmYzZmMjMtMmNmNy00NzM5LTk5NWQtMTI3ZTg2ODg2OTc0IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=6f40f03206d3c4950740)
 
@@ -33,11 +33,6 @@ Añadir iconos con parámetros visuales para mejorar la presentación y la inter
 Tablero: 
 
 ![image](https://github.com/user-attachments/assets/7aedce1d-2b8d-4626-a23b-455b4ef29d49)
-
-
-Template realizado en Figma: 
-
-![tablero2 (2)](https://github.com/user-attachments/assets/9c786320-6761-4ec5-abbb-82006e4572bc)
 
 
 ## ⚙️ Herramientas utilizadas: 
