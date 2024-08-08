@@ -1,4 +1,4 @@
-# Supermarket Sales 🛒
+# Analysis Supermarket Sales 🛒
 
 Ventas históricas de la empresa de supermercados que se registró en 3 sucursales diferentes durante 3 meses (enero, febrero y marzo) de 2019. 
 
