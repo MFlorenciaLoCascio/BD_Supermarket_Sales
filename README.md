@@ -14,7 +14,7 @@ Puede ver los insights y transformaciones realizas en P. BI en el informe: **[In
 
 # 📈 Análisis en Power Bi 
 
-Puede visualizar el dashboard realizado en Power Bi: **[Análisis de Negocio - Supermarket Sales])https://app.powerbi.com/view?r=eyJrIjoiYzJmYzZmMjMtMmNmNy00NzM5LTk5NWQtMTI3ZTg2ODg2OTc0IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=6f40f03206d3c4950740)**
+Puede visualizar el dashboard realizado en Power Bi: **[Análisis de Negocio - Supermarket Sales](https://app.powerbi.com/view?r=eyJrIjoiYzJmYzZmMjMtMmNmNy00NzM5LTk5NWQtMTI3ZTg2ODg2OTc0IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=6f40f03206d3c4950740)**
 
 
 ## 📂 Medidas Dax organizadas en 7 carpetas por categorías: 
