@@ -6,7 +6,7 @@ Data Set [Supermarket Sales](https://www.kaggle.com/datasets/aungpyaeap/supermar
 
 # 🎯 Objetivos:
 
-Creación de un tablero completo en Power BI que permita analizar el rendimiento del Supermercado, con un enfoque que permita ayudar al área de marketing a poder realizar promociones y XXXXX. Se presentan de manera clara los ingresos, costos, rentabilidad y otros indicadores claves. XXXX
+Creación de un tablero completo en Power BI que permita analizar el rendimiento del Supermercado, con un enfoque que permita ayudar al área de marketing a poder realizar promociones. Se presentan de manera clara los ingresos, costos, rentabilidad y otros indicadores claves.
 
 # 📊 Insights encotrados:
 
