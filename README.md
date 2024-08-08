@@ -17,7 +17,7 @@ Puede ver los insights y transformaciones realizas en P. BI en el informe: **[In
 Puede visualizar el dashboard realizado en Power Bi: **[Análisis de Negocio - Supermarket Sales])https://app.powerbi.com/view?r=eyJrIjoiYzJmYzZmMjMtMmNmNy00NzM5LTk5NWQtMTI3ZTg2ODg2OTc0IiwidCI6IjdmMmY3MDM3LTljNjMtNDY3Ni04YzRkLWNjZjgyZDZhZjVlMyIsImMiOjR9&pageName=6f40f03206d3c4950740)**
 
 
-### 📂 Medidas Dax organizadas en 7 carpetas por categorías: 
+## 📂 Medidas Dax organizadas en 7 carpetas por categorías: 
 
 1- Carpeta: Medidas_Ingresos_Brutos
 
@@ -33,12 +33,12 @@ Puede visualizar el dashboard realizado en Power Bi: **[Análisis de Negocio - S
 
 7- Carpeta: Medidas_Otras
 
-### 📄 Parámetros Visuales: 
+## 📄 Parámetros Visuales: 
 
 Añadir iconos con parámetros visuales para mejorar la presentación y la interacción con los datos temporales y las métricas en el gráfico de líneas.
 
 
-💻 Tablero: 
+## 💻 Tablero: 
 
 ![image](https://github.com/user-attachments/assets/7aedce1d-2b8d-4626-a23b-455b4ef29d49)
 
