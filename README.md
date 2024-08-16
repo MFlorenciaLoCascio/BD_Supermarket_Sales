@@ -33,9 +33,9 @@ Puede visualizar el dashboard realizado en Power Bi: **[Análisis de Negocio - S
 
 7- Carpeta: Medidas_Otras
 
-## 📄 Parámetros Visuales: 
+## 📄 Parámetros de Campo: 
 
-Añadir iconos con parámetros visuales para mejorar la presentación y la interacción con los datos temporales y las métricas en el gráfico de líneas.
+Añadir iconos con parámetros de campo para mejorar la presentación y la interacción con los datos temporales y las métricas en el gráfico de líneas.
 
 
 ## 💻 Tablero: 
